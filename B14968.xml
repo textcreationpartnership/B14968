@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A iournall of all the principall passages of that late famous siege and taking of the citie of Mastricht by the Prince of Orange Wherein you shall meete with many very remarkable passages, both on the part of the besiegers and besieged. Written by a gentleman of qualitie: and an actor in most of the proceedings. Vnto which is added a list of all the principall commaunders, and other officers, which were either slaine or hurt of all nations in time of the siege.</title>
+         </titleStmt>
+         <extent>Approx. 65KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14968</idno><idno type="EEBO-CITATION">99852421</idno>
+  <idno type="VID">177442</idno>
+  <idno type="EEBO-PROQUEST">2240911258</idno>
+  <idno type="STC">STC 18507.276</idno>
+  <idno type="STC">ESTC S117206</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99852421e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1137:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A iournall of all the principall passages of that late famous siege and taking of the citie of Mastricht by the Prince of Orange Wherein you shall meete with many very remarkable passages, both on the part of the besiegers and besieged. Written by a gentleman of qualitie: and an actor in most of the proceedings. Vnto which is added a list of all the principall commaunders, and other officers, which were either slaine or hurt of all nations in time of the siege.</title>
+               </titleStmt>
+               <extent>[2], 28 [i.e. 30] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. D[awson] for Nathaniel Butter and Nicholas Bourne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1632.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ninth Series, number 1. At head of title page: October 16 .. .</note>
+                  <note>The first word of the title is printed on the same line as, and between, the date and number--STC.</note>
+                  <note>On 17 October 1632 a Star Chamber decree prohibited the further publication of newsbooks. See also Greg, "Companion", pp. 291-2--STC.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Final page is misnumbered.</note>
+                  <note>Formerly STC 11365.</note>
+                  <note>Identified as STC 11365 on UMI microfilm.</note>
+                  <note>Imperfect; title page torn with loss of serial notation.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177442:1"/>
+            <pb facs="tcp:177442:1"/>
+            <p>
+               <hi>October</hi> 16.</p>
+            <p>A IOVRNALL OF ALL THE PRINCI<g ref="char:EOLhyphen"/>PALL PASSAGES OF that late famous Siege and Ta<g ref="char:EOLhyphen"/>king of the Citie of <hi>Mastricht</hi> by the Prince of <hi>Orange.</hi>
+            </p>
+            <p>Wherein you shall meete with many very remarkable Passages, both on the part of the Besiegers and Besieged.</p>
+            <p>Written by a Gentleman of Qualitie: and an Actor in most of the procee<g ref="char:EOLhyphen"/>dings.</p>
+            <p>
+               <hi>Ʋnto which is added,</hi> A List of all the Principall Com<g ref="char:EOLhyphen"/>maunders, and other Officers, which were either slaine or hurt of all Nations in time of the Siege.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>I.D.</hi> for <hi>Nathaniel Butter</hi> and <hi>Nicholas Bourne</hi> 1632.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177442:2"/>
+            <pb n="1" facs="tcp:177442:2"/>
+            <head>A SHORT RELATION OR IOVRNALL Of that famous Siege of MASTRICHT.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter that his Excellencie the Prince of <hi>Orange</hi> had assembled his Forces aboue <hi>Nymegen,</hi> and the generall day of Fasting &amp; Prayers was past in the Vnited Provinces, for the good successe of his Excellencies enterprises: our Army marched in<g ref="char:EOLhyphen"/>continently towards <hi>Ʋenlo,</hi> a place of strength and importance, and a Citi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Gelderland</hi> From hence his Excellency sent one part of his Army towards <hi>Reremond,</hi> and another troope to <hi>Strallen,</hi> to attache those three places, being vnfurnished of men and necessaries; at the same time by this meanes to di<g ref="char:EOLhyphen"/>stract the Forces of our enemies. It so fell out, that within few dayes those three places yeelded vpon faire Conditions, which caused his Excellency to leaue therein the publike ex<g ref="char:EOLhyphen"/>ercise of their Religion in all their Churches; one excepted in every Towne, where our Reformed haue their publike ex<g ref="char:EOLhyphen"/>ercise: by this meanes to make the rest of the Cities of <hi>Bra<g ref="char:EOLhyphen"/>bant,</hi> to submit to his favourable victorious Armes. We haue not lost any man of note before those Cities, saue onely that renowned and most valiant Captaine, a true pillar of the
+<pb n="2" facs="tcp:177442:3"/>Church in the <hi>Low Countryes,</hi> Count <hi>Ernest</hi> of <hi>Nassaw,</hi> whose losse in so dangerous times is aboue our expressions. But his Excellencie ascribing this vnmatcheable losse of so faithfull an Assistant to the fatall destiny of Heaven, and sur<g ref="char:EOLhyphen"/>mounting his naturall affections with Christian patience and resolution, was not discouraged by that vnhappie Re<g ref="char:EOLhyphen"/>encounter so met withall in his first setting forth, but rather resolved to revenge that breach made in his owne bloud: and went speedily towards <hi>Mastricht,</hi> a neutrall Towne, from thence sending some Troopes to <hi>Syttart,</hi> a Towne in <hi>Gullickland,</hi> tooke it, and put a garrison into it.</p>
+            <p>In the meane time that we spent our time about <hi>Ma<g ref="char:EOLhyphen"/>seick</hi> two or three dayes, the <hi>Spanish</hi> Forces and reliefe came into <hi>Mastricht</hi> about two thousand men, pickt out and cho<g ref="char:EOLhyphen"/>sen out of all the old Companyes that were in the Kings ser<g ref="char:EOLhyphen"/>vice, vnder valiant and stout Commaunders: the most of them having beene in the Towne of <hi>Shertogenbosh</hi> when it was besieged: so that if we had come but three or foure dayes sooner before the Towne, we might haue made a better bar<g ref="char:EOLhyphen"/>gaine, and sooner gotten into that bloudy Citie. But the Lords Counsaile being aboue our conceptions, it was fatall to many noble spirits to haue <hi>Mastricht</hi> the Towne of their va<g ref="char:EOLhyphen"/>liant actions: so that wee delaying our March till that time, came not before the Citie vntill the tenth of <hi>Iune</hi> towardes <hi>Lake,</hi> where his Excellency came very neare the Towne with horse and foote, within lesse then a Musket-shot from the walles, they within not sparing their Ordnance, but well<g ref="char:EOLhyphen"/>comming vs with great and small shot without ceasing, not without great losse of ours. That night and day following, the Quarters were divided, the first bartery raysed, which gaue the Towne the Signall of a Sutor with three demy Canons, being answered with twelue of theirs.</p>
+            <p>Before I come to relate some particulars, giue me leaue to tell you in what condition the Towne and our Army was at the first, and how wee did lodge vs round about that vast Chaos of <hi>Mastricht,</hi> and <hi>Wyck. Mastricht, (Trajectum
+<pb n="3" facs="tcp:177442:3"/>ad Mosam)</hi> is an old and famous Citie in <hi>Brabant,</hi> in the bor<g ref="char:EOLhyphen"/>ders of it towards <hi>Luykeland,</hi> and the Dukedome <hi>Limborg</hi> in one side, and the Land of <hi>Gulick</hi> on the other, devided in<g ref="char:EOLhyphen"/>to two Cities by the River of <hi>Mase,</hi> that floweth through it: whereof the one is called <hi>Mastricht</hi> on <hi>Brabant</hi> side, belonging to the King of <hi>Spaine;</hi> the other <hi>Wyck</hi> in <hi>Luyke<g ref="char:EOLhyphen"/>land</hi>-side, heretofore a neutrall Towne, and belonging to the Citie of <hi>Luyke,</hi> but by reason of scituation and commodi<g ref="char:EOLhyphen"/>ousnesse, taken in and kept by the Kings Garrison. The Towne is governed by their Burgomaisters and Senate, and hath many priviledges aboue other Townes: as being the <hi>Magazin</hi> of all <hi>Brabant,</hi> full of Churches and Colled<g ref="char:EOLhyphen"/>ges of men and women. The Garrison was heretofore commanded by a Governour, one Monsieur <hi>de la Motterie,</hi> an old servant to the King: but being commaunded to goe vp with the Kings Forces into the <hi>Palatinate</hi> the last Win<g ref="char:EOLhyphen"/>ter, vnder the commaund of Don <hi>Cordova,</hi> he could not come backe againe into the Towne before the Siege, but was forced to looke vpon his Government with moystned eyes, in the <hi>Spanish</hi> Leaguer that came to releeue the Towne in vaine. In his absence commaunded Baron <hi>Delede,</hi> a braue Commaunder, who carried himselfe valiantly all the Siege, as the effect shall proue: He had about two thousand fiue hundred Souldiers in Garrison, and three thousand Burgers that were able to beare Armes, as they did; he wanted nei<g ref="char:EOLhyphen"/>ther victualles nor Munition at the beginning, as being in the <hi>Magazin</hi> of <hi>Brabant,</hi> and therefore spared not his shotte, but thundered most fearefully into our Quarters, to the losse of many. The Fortifications of the Towne are not very strong, having but a good Wall, with some Ravelins and Bulwarkes, and no Out-workes, but before the gates: till at the time of the Siege, that they made diverse Horne-workes and Traverses, which did traverse our Workes mightily. Thus much in view of the Towne.</p>
+            <p>Our Liaguer on the <hi>Brabandish</hi> side of the Towne was devided into foure Quarters next the <hi>Mase</hi> Northwardes,
+<pb n="4" facs="tcp:177442:4"/>where our <hi>Hollandish</hi> Shipping lay, was Baron <hi>Brederode</hi> quartered on a Hill, with some <hi>Dutch</hi> Regiments, for the Guard of our Bridge and Shippes. Within halfe a myle from him, on the South-west side of the Towne, was the Quarter of his Excellencie the Prince of <hi>Orange,</hi> who had the strength of his Armie with him. The <hi>English, Scottish, French,</hi> some <hi>High-Dutch</hi> Forces. At the beginning his Ex<g ref="char:EOLhyphen"/>cellencies Tents were pitched betweene the <hi>English</hi> and <hi>Scottish</hi> Quarter, fast by the Regiment of the Guardes. But the Enemies Cannons poynting directly that way, and shooting diverse times through his Excellencies Pavilion; they were remooved North-Westward from the Towne to an eminent hill, of a very fayre prospect; from whence his Excellencie might see over all the Townes, and all his Quarters round about, sitting (as it were) in the midst of his Armie on a high Throne.</p>
+            <p>At his Excellencies right hand was the Count of <hi>Solmes,</hi> his brother in-Lawes Regiment, then in order Colonell <hi>Harwoods, Casterwards,</hi> Colonell <hi>Herberts,</hi> Colonell <hi>Packen<g ref="char:EOLhyphen"/>hams,</hi> my Lord <hi>Veeres,</hi> and Generall <hi>Morgans</hi> Regiments, in a Halfe-Moone (as it were) envirouing the Towne. At his left hand was <hi>Chastillion, Haulterine, Maison, Neufue,</hi> and Duke <hi>de Candales</hi> Regiments; and next to them to<g ref="char:EOLhyphen"/>wards the Towne, Graue <hi>Morris</hi> of <hi>Nassaw,</hi> and the Count of <hi>Hanaws</hi> Regiments.</p>
+            <p>Betweene the <hi>English</hi> and the Towne, lodged the Lords the States Generall, and because it was in a dangerous place, the Bullets flying round about them, they made a kinde of Traverse before their lodging, to keepe off the enemies shot. Before the States lay the <hi>Scottish</hi> Quarter, Collonell <hi>Brooke,</hi> Collonell <hi>Balfour,</hi> and the Earle of <hi>Buchbergh</hi> Re<g ref="char:EOLhyphen"/>giments. At the right hand, a little behinde them the Prin<g ref="char:EOLhyphen"/>ces Guardes. Those Regiments were in the Princes Quar<g ref="char:EOLhyphen"/>ter.</p>
+            <p>In the third Quarter, South South-West from the Towne, commaunded Count <hi>Henry, Grave Ernests</hi> eldest sonne, now
+<pb n="5" facs="tcp:177442:4"/>Governour of <hi>Freesland</hi> in his Fathers steade, with some <hi>Dutch</hi> Regiments.</p>
+            <p>The fourth Quarter Southwardly from the Towne vp<g ref="char:EOLhyphen"/>on a hill, was commaunded by Collonell <hi>Pinsen,</hi> vnder whose Quarter was the <hi>Mase,</hi> and a bridge over it, where all our provisions comming from <hi>Luyck,</hi> landed, and from thence was convayed into our Leaguer, on the other side of the Towne and Water. Before <hi>Wyke,</hi> was at the begin<g ref="char:EOLhyphen"/>ning but one Quarter, in forme of a Campe, commaun<g ref="char:EOLhyphen"/>ded by Count <hi>Morris van Nassaw;</hi> before our enemies the <hi>Marques de Sancte Croce,</hi> and <hi>Pappenheym</hi> arrived: but afterwards when Count <hi>William</hi> came to vs from about <hi>Antwerpe,</hi> he lodged there likewise in a peculiar Campe, to hinder our enemies from attempting to relieue the Towne that way.</p>
+            <p>The whole Leaguer was formed of Hutts of Strawe and some Tents, so that I could not imagine how it was possible that so much Strawe should be found about one Towne, and gathered in so few dayes; for wee came the tenth day of <hi>Iune</hi> before the Towne, and the Leaguer was formed and fitted at the fifteenth day of the same moneth, when wee beganne our approaches. After that the Hutts were set vp very conveniently and orderly, wee beganne to fortifie our Campe, and entrench vs round about with three severall entrenchments and walles, three ditches be<g ref="char:EOLhyphen"/>ing here and there assured by Sconses, Redoubts, Halfe-Moones, Batteries, to be sure at our backes, in the meane while, wee had to deale with the Towne: as likewise eve<g ref="char:EOLhyphen"/>ry Quarter was enclosed by it selfe with a strong entrench<g ref="char:EOLhyphen"/>ment, with severall meanes to goe in and out, guarded day and night for all occasions.</p>
+            <p>The circuit of the whole Leaguer on both sides was a<g ref="char:EOLhyphen"/>bout twelue or thirteene <hi>English</hi> myles, for I wentround a<g ref="char:EOLhyphen"/>bout on Horsebacke an easie pace to view the Workes in foure houres. As for our provision, wee had never scarci<g ref="char:EOLhyphen"/>tie of victualles, being relieved by those of <hi>Luyck, Tonge<g ref="char:EOLhyphen"/>ren,
+<pb n="6" facs="tcp:177442:5"/>Sittert,</hi> and others, that came daily into our Quarters, with all manner of provision, Bread, Meate, Chickens, Fruits, Fowles, Butter, <hi>Limborg</hi>-Cheeses, and especially, with roasting Pigges, that I could not sufficiently admire the quantitie of them. Beere and Wine wee had enough, although sometimes cheaper, sometimes dearer, according to severall occurrences. For the safetie of our Quarters, wee had but little, for there was no place in his Excellen<g ref="char:EOLhyphen"/>cies Quarter, at least which was not within a Cannon-shot from the Towne-wall: so that at the beginning, before our Traverses and Walles were made towards the Towne, ma<g ref="char:EOLhyphen"/>ny Souldiers, men and women, were killed in their Hutts and Tents, especially, in the <hi>Scottish</hi> and <hi>Pinsens</hi> Quarters; the certaine number thereof, I dare not mention, because it may seeme incredible.</p>
+            <p>Thus haue I brought you to the finishing of our Quarters in grosse, for the perfect entrenchment of them was not finished till three weekes after.</p>
+            <p>The fifteenth day of <hi>Iune,</hi> beganne his Excellencie to ap<g ref="char:EOLhyphen"/>proach towardes the Towne in his Quarter onely, by the <hi>English</hi> and <hi>Scottish</hi> on one side, and by the <hi>French</hi> and <hi>High-Dutch</hi> on the other side: none of the <hi>Low-Dutch</hi> out of no Quarter making any Approaches during this whole Siege. The Batteries that were raysed were three. 1. in our <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Approaches with three; 1. in the <hi>French</hi> Approaches with three; 1. with <hi>Pinsens</hi> Quarter with three peices, although afterwards we in our <hi>English</hi> Approaches had but two Batteries. It was Colonell <hi>Harwoods</hi> turne to beginne the Approaches in our <hi>English</hi> Quarter, and was releeved by Collonell <hi>Packenham,</hi> my Lord <hi>Ʋeere,</hi> Generall <hi>Mor<g ref="char:EOLhyphen"/>gan,</hi> and the <hi>Scottish</hi> Regiments, so that it came to every Collonells turne to commaund once in seaven dayes in the Approaches.</p>
+            <p>At the beginning they beganne to digge couragiously, and went well on, so that it was almost as safe to be in the
+<pb n="7" facs="tcp:177442:5"/>Approaches as in the Quarters, they in the Towne sparing not their Ordnance to play continually, and seldome with<g ref="char:EOLhyphen"/>out some losse.</p>
+            <p>His Excellencie was very forward to further the worke, being more encouraged, when few dayes after the great Convoy came from <hi>Nymeghen,</hi> and the braue bringing in twentie Shippes with Munition and Meale for the Army, and withall a good number of Commaunders, and Gentle<g ref="char:EOLhyphen"/>men, that accompanied my Lord <hi>Veere,</hi> and the Earle of <hi>Oxford,</hi> arriving in safetie the two and twentie day of <hi>Iune.</hi>
+            </p>
+            <p>Since the eighteenth till the twentie-two of <hi>Iune,</hi> there was nothing done or wrought in the approaches towardes their Halfemoone by the <hi>English,</hi> and towardes the rest of the Out-workes by the <hi>French.</hi> Those in the Towne ma<g ref="char:EOLhyphen"/>king sometime shew to hinder vs with their Sallyes, but without great hurt.</p>
+            <p>The twentie-three of <hi>Iune,</hi> his Excellency sent a Trumpet into the Towne, with a Packet of Letters, wherein was the Declaration of Count <hi>Henry Vanden Bergh,</hi> signed vnder his owne hand: but the Governour would not receiue the Letters, and sent them backe againe, with protestati<g ref="char:EOLhyphen"/>on to receiue no Letters, but from his Generalissimo, the Marquesse <hi>de Sancte Croce;</hi> yet the Trumpet acquainted some in the Towne with <hi>Ʋanden Bergs</hi> intention, and per<g ref="char:EOLhyphen"/>ceived so much by some Souldiers, that alreadie they be<g ref="char:EOLhyphen"/>ganne to be weary of their labours, being forced to be day and night at the Guard, and that in the Out-workes to<g ref="char:EOLhyphen"/>wardes night, being Saint <hi>Iohns</hi> eue, when the Guard was relieved, they in the Towne made a very curious Volley, of their great and small shot, in honour of Saint <hi>Iohn</hi> the Baptist, which gaue an Alarm in some Quarters that were not well skilled in the Almanacke.</p>
+            <p>The twenty-foure of <hi>Iune,</hi> after their Matins, they made a Sallie both vpon the <hi>French</hi> and <hi>English,</hi> entring into our
+<pb n="8" facs="tcp:177442:6"/>Trenches, and killing some few men, but were expulsed with losse, and left one of their men prisoner behinde them. Wee had not aboue foure men killed, and Colonell <hi>Packen<g ref="char:EOLhyphen"/>ham,</hi> who commaunded in the Trenches, was shot in his face, whereon he did lye many weakes, but recovered by Gods mercy. That night wee wrought on in our workes; and they in the Towne came often vpon vs with a <hi>Sa Sa Donques,</hi> but had no minde to fall on. That night was a fire in the Quarter of the Guardes, but did no great harme.</p>
+            <p>The twentie-fifth of <hi>Iune</hi> was a Salley made by them in the Towne vpon the <hi>French,</hi> and one Lieutenant and one Ensigne, and some <hi>French</hi> slaine, but they were beaten backe againe.</p>
+            <p>The twentie-sixe of <hi>Iune,</hi> was a Sergeant killed in my Lord <hi>Ʋeeres</hi> Quarter; they played very hard with their Canon out of the Towne: wee heard newes of our enemies comming to relieue the Towne.</p>
+            <p>The twentie-seaventh of <hi>Iune,</hi> towards evening we heard three or foure Cannon-shots given by the Marquesse <hi>Sancte Croce,</hi> for a signall of his comming to the Towne, being three houres going from vs.</p>
+            <p>The twentie-eighth of <hi>Iune,</hi> came a Bullet from the Towne in my Lord <hi>Morgans</hi> Tent, and brake two of his Coffers, without other harme; that after-noone wee had a false A<g ref="char:EOLhyphen"/>larum by occasion of a Drumme that was to enter into the Towne, but soone discovered: the Marquesse beganne to shoot that Evening about twentie-three Cannon-shot for a signall, and came nearer to vs, thinking to affright our Ar<g ref="char:EOLhyphen"/>my with his great Cannons.</p>
+            <p>The twentie-ninth of <hi>Iune,</hi> the Marquesse marched fast by our Leaguer, in the sight of our Army, where our horse did skirmish with his men. That night began our Grand<g ref="char:EOLhyphen"/>round, which lasted a great while: the next day the Mar<g ref="char:EOLhyphen"/>quesse went vp and downe about our Campe, being doubt<g ref="char:EOLhyphen"/>full
+<pb n="9" facs="tcp:177442:6"/>which way to march; till at last, the first of <hi>Iuly,</hi> he tur<g ref="char:EOLhyphen"/>red towardes <hi>Barbie Brederods</hi> Quarter, and formed his Leaguer close on the Rivers side by a Cloyster, where he remained vntill the day of the taking of the Towne, attemp<g ref="char:EOLhyphen"/>ting nothing against our Campe all that while, although he had many fayre opportunities, but the prisoners and runna<g ref="char:EOLhyphen"/>wayes told vs, that he could not finde leasure to thinke on vs, being so much imployed in dicing: that night my Lord of <hi>Oxford</hi> fell vpon the Enemies Traverse with great cou<g ref="char:EOLhyphen"/>rage and resolution, and tooke it by maine force, but for want of succours was constrained to retyre; yet our men falling on the second day, beate the Enemie out againe, and had maintained their possession, if our workemen that should haue turned the worke vpon the Enemies, had not treche<g ref="char:EOLhyphen"/>rously neglected their workes, and fallen vpon the dead bo<g ref="char:EOLhyphen"/>dies to strippe them; for in deferring the worke, the Ene<g ref="char:EOLhyphen"/>mie came out of the Towne, and made our men retire: where wee lost Captaine <hi>Haughton,</hi> Master <hi>Knowles,</hi> Master <hi>Enwein,</hi> Voluntiers vnder my Lord <hi>Veeres</hi> Companie, Lieu<g ref="char:EOLhyphen"/>tenant <hi>Gardly,</hi> and some common Souldiers, and Sir <hi>Simon Harencouste,</hi> with Captaine <hi>Rookwood</hi> were hurt, but escaped by the Lords mercy.</p>
+            <p>The next morning, the second of <hi>Iuly,</hi> wee had our re<g ref="char:EOLhyphen"/>venge on the Enemie, for the Marquesse intending to make a bridge over the <hi>Mase,</hi> sent some three or foure hundred men in boates over the River, to gette ground and make a little Countrescarfe about the Water, to assure his workes, but our <hi>French</hi> troopes that had the Guard, seeing them landed, charged them vnder the commaund of that braue Marquesse <hi>Des Tiax,</hi> Lieutenant Colonell to the Duke of <hi>Candaile,</hi> and gaue them the overthrow, killing aboue a hundred, and taking the rest prisoners. Notwithstanding, the <hi>Cariols</hi> Cannons, about tenne or twelue peices, which favoured their descent, and played continually vp<g ref="char:EOLhyphen"/>on our men sore. Wee lost the said Marquesse in returning victoriously from the Water by a Canon-shot, as likewise
+<pb n="10" facs="tcp:177442:7"/>Captaine <hi>Fouillem,</hi> and <hi>Dufresne,</hi> who was hurt and dyed afterwards: the Enemies much commended the valour of our men, as wee perceived out of Letters that were sur<g ref="char:EOLhyphen"/>prised.</p>
+            <p>After dinner, the enemies Trumpet came to demaund his prisoners, and his Excellencie had a <hi>Gascoigne French</hi> with him, representing to him his kindnesse and mercy, that he had not put to the sword all the prisoners, which the enemies certainely had done, if they had had such an advantage over vs, but the Trumpet answered, that his Excellencies curtesie and mercifulnesse was knowne by ex<g ref="char:EOLhyphen"/>perience of the former yeare, when the Shallopes were ta<g ref="char:EOLhyphen"/>ken at <hi>Bergen,</hi> and therefore they hoped for the same in time to come, with promise to shew the like favour to our men, in the like case of extremitie; whereupon his Excel<g ref="char:EOLhyphen"/>lencie answered, that he hoped, he should not haue neede of their curtesie.</p>
+            <p>And the third of <hi>Iuly,</hi> beganne our worke-men to Sappe into the enemies Traverses, and cut them in peices, and so to make them vnserviceable to them. The Marquesse mar<g ref="char:EOLhyphen"/>ched that day with some of his Forces towards <hi>Mastricht,</hi> to see whether he could get over the River that way, but our troopes marching on the other side of the Water, tooke care of all occurrences, especially when having joyned the Lord <hi>Diden</hi> with fortie or fiftie Companies, they dispo<g ref="char:EOLhyphen"/>sed the barge betweene <hi>Roremond</hi> and in our Leaguer, in such a manner, that it was impossible for the Marquesse to vnder<g ref="char:EOLhyphen"/>take the passage any more.</p>
+            <p>The fourth of <hi>Iuly,</hi> was Sir <hi>Iames Leveston,</hi> Lieutenant Colonell to Sir <hi>David Balfores</hi> Regiment, hurt in the head, but recovered by the Lords mercy. The same day were some eighteene Charrets with provision, intending to goe to the Enemies Leaguer, brought in by our Horse<g ref="char:EOLhyphen"/>men.</p>
+            <pb n="11" facs="tcp:177442:7"/>
+            <p>The sixt of <hi>Iuly,</hi> commaunded Generall <hi>Morgan</hi> in the approaches, and fell vpon the Enemies Traverses, and was hurt himselfe in his breast, but recovered within fewe weekes againe. That night fell</p>
+            <p>Lieutenant Generall of the Horse, vpon one of the enemies Horse-Quarters, and surprising them, killed a great many, amongst them a <hi>Spanish</hi> Captaine, and came with some boo<g ref="char:EOLhyphen"/>tie and prisoners backe againe into our Leaguer.</p>
+            <p>The scaventh of <hi>Iuly</hi> was Colonell <hi>Harwood,</hi> as hee commaunded in the approaches, shot through his Hatte. They thundered this day most furiously with their Canon, notwithstanding the great-empest and storme that was the whole day.</p>
+            <p>After dinner brought our Horsemen in some twentie-fiue prisoners, one <hi>Drossard,</hi> and nine Charrets with provision, which were sold as good bootie. One of our Granadoes fell this night vpon a house in the Towne, with such an o<g ref="char:EOLhyphen"/>peration, that it threw backe againe into our Approaches, a great peece of yron and tymber, which caused great ter<g ref="char:EOLhyphen"/>rour to the Burgers.</p>
+            <p>The eight of <hi>Iuly,</hi> were againe some Charrets loaden with Wine brought in by our Horsemen.</p>
+            <p>The ninth and tenth of <hi>Iuly,</hi> was nothing done, but wee wrought hard in our Approaches.</p>
+            <p>The eleventh of <hi>Iuly,</hi> they in the Towne sprung a Mine in the <hi>French</hi> Approaches, but without great effect. That day came Duke <hi>de Candale,</hi> and my Lord <hi>Craven</hi> to our Army.</p>
+            <p>The twelfth, thirteenth, and fourteenth of <hi>Iuly,</hi> happened nothing of any consequence.</p>
+            <p>The fifteenth of <hi>Iuly</hi> at night tooke the Duke of <hi>Bovilli<g ref="char:EOLhyphen"/>on</hi> the Castle <hi>Argenteau</hi> or <hi>Arkenteall,</hi> betweene our Lea<g ref="char:EOLhyphen"/>guer and <hi>Luycke,</hi> vpon the River of <hi>Mase,</hi> where great store of provision was found, and some Armes: by this meanes to assure the passage betweene <hi>Luick</hi> and vs.</p>
+            <pb n="12" facs="tcp:177442:8"/>
+            <p>The same night, made the Garrison a Salley vpon the <hi>French</hi>-Approaches, and beate them out of some of their workes, and lodged there.</p>
+            <p>The next day, being the sixteenth of <hi>Iuly,</hi> was a mine sprung by the <hi>French,</hi> and an assault given by them vpon the enemies workes, and taken by force, but lost againe in<g ref="char:EOLhyphen"/>stantly: they in the Towne playing with their Cannon and Muskets from the Wall on all sides, so fiercely, that our men could not hold the Worke. That night tooke the <hi>Wallons</hi> the Workes againe which the <hi>French</hi> had lost, and turned the enemie quite out of them, but not without a great fight, where on both sides many lost their liues.</p>
+            <p>The seaventeenth and eighteenth of <hi>Iuly,</hi> was it very quiet, onely we continued our fapper.</p>
+            <p>The nineteenth of <hi>Iuly,</hi> in the morning the Marquesse gaue vs an Alarum, his Horse comming neare to our en<g ref="char:EOLhyphen"/>trenchments, and gallopping vp and downe within a Mus<g ref="char:EOLhyphen"/>ket-shot of our Fort, being aboue two or three thousand Horses; but all their exployt was to take two or three hun<g ref="char:EOLhyphen"/>dred of our Waggen-Horses that were feeding thereabout, and to massacre ten or twelue of our poore Wagginers most cruelly, cutting off their eares and noses, in a most vile and barbarous manner. But our Cannon from the <hi>English</hi> Fort, and his Excellencies Battery, made many of them flie in the ayre; as likewise our Horsemen tooke many of them in their retraites, where the Captaine of his Excel<g ref="char:EOLhyphen"/>lencies Curassiers, being too farre engaged, was slaine. That day and night before, were about an hundred and twen<g ref="char:EOLhyphen"/>tie Horses brought in by our Horsemen, and sold as good bootie.</p>
+            <p>There had beene an advertisement given by some of the Enemies Campe, to his Excellencie by a Letter, of their enterprise, but that Letter was delivered too late, even when they retreated, by the fault of one whom wee dare not name. The Marquesse came that night with some For<g ref="char:EOLhyphen"/>ces,
+<pb n="13" facs="tcp:177442:8"/>and presented himselfe before <hi>Brederodes</hi> Quarter, but gaue no assault, and retired.</p>
+            <p>The twentie of <hi>Iuly,</hi> they did nothing.</p>
+            <p>The twentie one of <hi>Iuly,</hi> they made a Salley from out of the Towne vpon our <hi>Corps de Guarde,</hi> which we had vnder <hi>Pinsens</hi> Quarter, but were forced to retyre by our Horses, and some killed and taken prisoners. That afternoone was a great Skirmish in the <hi>French</hi> Approaches, where the Count of <hi>Hanaw</hi> after he had sprung a Mine, fell vpon the enemies workes, and beate them out; it was long dispu<g ref="char:EOLhyphen"/>ted and lasted aboue one houre, and our men making shew to retire, that braue Count with his naked sword in his hand, droue his men on, and encouraged them by his ex<g ref="char:EOLhyphen"/>ample, till at last he got a shot in his head, whereof hee dyed fewe houres after; a great losse of a hopefull young couragious Lord, brought vp by his Excellencie from a childe, and much lamented by all the Army.</p>
+            <p>The night following, attempted the Marquesse <hi>de Sancte Croce</hi> againe to bring some of his troopes over the water, as they did, and landed ab<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue three hundred, but were so entertained by <hi>Grave van Stirum,</hi> that the most of them were slaine, and a hundred of them brought prisoners into our Quarters, amongst them some <hi>Neopolitan</hi> Captaines and Officers.</p>
+            <p>The twentie-two of <hi>Iuly,</hi> sprang the <hi>French</hi> another Mine, and got two rods of ground of the enemie. After dinner, the enemie sprung a Mine in the <hi>English</hi> Approaches, but without great harme. Whereupon Lieutenant Colonell <hi>Proud,</hi> who commaunded in the Approaches in Colonell <hi>Packenhams</hi> turne hearing the Alarum, and running to<g ref="char:EOLhyphen"/>wards the breach, was shot in his head starke dead, being much lamented by his whole Regiment.</p>
+            <p>The twentie-three of <hi>Iuly,</hi> here happened a memorable thing, that two of our workemen which the day before had beene blowne vp in the Mine, and afterward covered with the earth, came forth out of the ground againe with<g ref="char:EOLhyphen"/>out
+<pb n="14" facs="tcp:177442:9"/>any hurt, after that they had laboured with hand and foote to get out of the ground the whole night before. This same day sprang they in the Towne another Mine without hurt; for there was scarce a day that they did not trouble vs with Sallyes or Mines, behaving themselues very valiantly and stoutly.</p>
+            <p>The next day being the twentie-fourth of <hi>Iuly,</hi> wee did spring a Mine, with an indifferent good effect: the ground being made faster and fitter for our Sappers.</p>
+            <p>The twentie-fiue of <hi>Iuly,</hi> was a Salley made by the Townes<g ref="char:EOLhyphen"/>men vpon Count <hi>Morits</hi> Quarter, but they were repulsed with losse.</p>
+            <p>The twentie-sixt of <hi>Iuly,</hi> was a great Alarum in our Lea<g ref="char:EOLhyphen"/>guer, as if the Marquesse would come to assault vs in our Trenches; our Horse Sentinell having discovered some of the Enemies Horses; and heard the beating of many Drummes towards our Leaguer; but it was a meere bra<g ref="char:EOLhyphen"/>vado, perhappes to take more Horses; not with an inten<g ref="char:EOLhyphen"/>tion to measure the breadth of our ditches, and the firme<g ref="char:EOLhyphen"/>nesse of our entrenchments, whereunto our enemies had but little minde; knowing that for all their paines, they should get nothing but shame and blowes. They in the Towne blew vp a Mine againe, but without effect.</p>
+            <p>The twentie-eight of <hi>Iuly,</hi> beganne the Marquesse to play most furiously with his Cannons vpon our Guard which we had over the Water, charging his peices with Musket-bul<g ref="char:EOLhyphen"/>lets, but did no great harme. The <hi>French</hi> blew vp a Mine, and lost <hi>Lavioletta,</hi> a braue Captaine.</p>
+            <p>The twentie-ninth of <hi>Iuly,</hi> did our men approach towards the Halfe-moone before the gate, but were received with great and small shot in abundance, and with Granadoes, which they threw thicke vpon vs: there was that honest Captaine <hi>Courtney</hi> hurt, whereof he dyed. The same night went the Count <hi>van Sullenborg,</hi> with some of the States backe towardes <hi>Holland.</hi>
+            </p>
+            <pb n="15" facs="tcp:177442:9"/>
+            <p>The 30. began the <hi>French</hi> to come neere the Counter<g ref="char:EOLhyphen"/>scarpe in the Couertmynes they cast it, and so went to the ditch.</p>
+            <p>The 31. was a bloody day, where the enemies burnt some of our blindes or couerts to hide our workemen, and skirmishing with our <hi>Scottish</hi> that had the Guard kil<g ref="char:EOLhyphen"/>led a great many, amongst them Lieutenant <hi>Bruce,</hi> and hurt Captaine <hi>Leviston</hi> and Captaine <hi>Dowglasse,</hi> and o<g ref="char:EOLhyphen"/>thers, and demounted one of our Canons.</p>
+            <p>The 1. of August, burnt the enemy two of our blinds, and slew some of our men in the gap; notwithstanding we went on in our workes both English and French, for all the stout opposition of the enemy. The <hi>French</hi> about this time or a little before, beginning their Couert Galle<g ref="char:EOLhyphen"/>ry vnder the ground toward the wall which the enemy did not dreame of, but the English made a <hi>Corps de Gard</hi> fast by the Counterscarpe.</p>
+            <p>The 2. of August, fell a part of the Towne-wall to the ground, whereupon we did shoot most fiercely but it was not a sufficient breach for an assault.</p>
+            <p>The 3. day, began the English their Gallery vnder the earth towards the Towne, and wrought very quietly, the enemy shooting no more so furiously as they did for want of Powder as wee thought and afterward found to be true, yet was Colonell <hi>Harwood</hi> that night shot in his legge with a Granado, as hee commanded in the Approa<g ref="char:EOLhyphen"/>ches and gaue order to resist the enemies that came to pull downe our Musket baskets from our workes. That day went a Conuoy to <hi>Falckenburgh,</hi> a County and towne be<g ref="char:EOLhyphen"/>longing to the King of <hi>Spaine,</hi> and after some resistance got into the Towne, and tooke away as much prouision from thence as theyr Wagons could carry.</p>
+            <p>The 4. of August, began our English to cut through the Counterscarpe afore the Ditch and to looke into it, and found it very steepe and deepe.</p>
+            <p>The next day, went his Excellency to <hi>Argentean,</hi> to conferre with the Magistrate of <hi>Luyck</hi> that came thither.</p>
+            <pb n="16" facs="tcp:177442:10"/>
+            <p>The 6. wee went on in our workes, and some of our French Cauailiers went to speake with some of theyr friends in the Enemies army, with leaue of his Excellency and found them dispairing of all meanes to relieue the Towne, only they hoped to giue vs battell in our returne, which gaue a good couragement to our Souldiers.</p>
+            <p>The 7. fell the Scottish vpon the enemies Trauerses and tooke it, with the losse of a Captaine and tenne Soul<g ref="char:EOLhyphen"/>diers.</p>
+            <p>The 8. arriued <hi>Papenheym</hi> at <hi>Stitart,</hi> and came the 9.th before our Army.</p>
+            <p>The 10. was a Woman taken comming out of the Towne with an intent to goe to the enemies Campe, and being examined by Serieant Maior <hi>Glasser,</hi> after many threatnings and intreates, she confessed that she had swal<g ref="char:EOLhyphen"/>lowed downe a little bullet and in it a Letter, which after a purge shee voyded and the letter was found; the letter being wrapped together and put in a little bullet and ba<g ref="char:EOLhyphen"/>ked in a paste that she should the easier swallow it downe, the contents of the Letter are not knowne.</p>
+            <p>The 11. of August, being a day of Prayers in the Lea<g ref="char:EOLhyphen"/>guer and in all the <hi>Ʋnited Provinces,</hi> was Colonell <hi>Har<g ref="char:EOLhyphen"/>wood</hi> slayne in the approaches with a small Canon bullet of 6. pound, and his heart beaten in peeces that hee dyed instantly as hee was viewing the Enemies workes and commaunding in the approaches in his turne; a braue Commander, and as hee was generally beloued of men of high and low estate, so was he generally lamented for his Piety and experience in warlike affaires. The Prince be<g ref="char:EOLhyphen"/>wayling him as a valiant Colonell, the States as a faithfull Patriot, the Church as a true Pillar, the Nobility as a fur<g ref="char:EOLhyphen"/>therer of theyr aduancements, and the common Souldier as a Father and Benefactor; his Regiment was soone af<g ref="char:EOLhyphen"/>ter prouided with a most worthy successour, that noble Knight Sir <hi>Henry Herbert,</hi> hitherto Lieutenant Colonell for the same Regiment. That euening came the Palatine Duke of <hi>Newburg</hi> to our Army, and was receiued of his
+<pb n="17" facs="tcp:177442:10"/>Excellency afore the Campe and curteously entertayned, but had not his requests granted to him, as being absurd and preposterous.</p>
+            <p>He went the next day and came againe into our Leaguer at the euening, his demands were as much as wee could perceiue, to make <hi>Maestricht</hi> &amp; <hi>Wyke</hi> newtrall townes and to bee a Mediator betweene his Excellency and <hi>Pap<g ref="char:EOLhyphen"/>penheym,</hi> who came to releeue <hi>Wyke</hi> as depending from the Roman Empire, and as hee began in some licentious speeches in a manner to threaten the States with <hi>Papen<g ref="char:EOLhyphen"/>heyms</hi> forces and courage, hee receiued such an answer from his Excellency and the Lord President, that he was faine to goe home the next day as he came, without effe<g ref="char:EOLhyphen"/>cting any thing.</p>
+            <p>The 12. of August, was a great fire in Colonell <hi>Har<g ref="char:EOLhyphen"/>woods</hi> Quarter, which burnt a whole diuision to the very skirt where the dead body of Colonell <hi>Harwood</hi> did lye and there it stayed, the wind turning in a moment as I did obserue and many with me not without admiration.</p>
+            <p>
+               <hi>Papenheym</hi> came that day and Quartered behind Count <hi>Morwets</hi> quarter vpon an hill within lesse then a Canon shot but attempting nothing that day. Thus were wee inuironed on both sides by our Enemies, hauing the Mar<g ref="char:EOLhyphen"/>quis on the one and <hi>Papenheym</hi> on the other side of the Riuer and the Towne afore vs. But hauing the Lord and a good cause on our part, there was none of the whole Ar<g ref="char:EOLhyphen"/>my that was the least affrighted, for all these Spaniards and Imperialists, but wished rather that they might come and try what courage wee had in our Army, as they did few dayes after.</p>
+            <p>The 13. comming nearer and nearer the Towne wee found greater resistance, the Townesmen sinking their Canons to shoot into our workes, making new Batteries in the bottome of the Ditch, and vsing all meanes to keep vs alwayes busie. As likewise our enemies with false a<g ref="char:EOLhyphen"/>larums awaking vs night and day, and keeping vs in a continuall guard with our whole Army many dayes, not
+<pb n="18" facs="tcp:177442:11"/>without great trouble and wearinesse to our common souldiers and Officers, though they did it very cheereful<g ref="char:EOLhyphen"/>ly as hoping for a good successefull end and issue of theyr labours; then began <hi>Papenheym</hi> to shew himselfe an ene<g ref="char:EOLhyphen"/>my by his Actions, skirmishing with our men and hin<g ref="char:EOLhyphen"/>dering our victuals to come from <hi>Luyck</hi> to our Leaguer.</p>
+            <p>The 14. of August, were some souldiers and women, comming out of the Towne to cut Corne, taken Priso<g ref="char:EOLhyphen"/>ners, who made contrary reports, some thinking it vnpos<g ref="char:EOLhyphen"/>sible that we should take the Towne, others that the Towne could not holde out 7. dayes longer and the like, but the best aduice in what extremity the Towne was in, we had by another woman that was brought in that day with an intention to carry newes to the Marquesse lea<g ref="char:EOLhyphen"/>guer, and being examined by the Serieant Maior Generall would confesse nothing, nay did laugh &amp; seeme to wonder when he asked her, whether shee had not eaten any let<g ref="char:EOLhyphen"/>ters, but at the last he shewing her the Bullet of the other woman and making her beleeue that he had cut the other womans belly &amp; found the letter in it, vowing to do so to her, if she not would confesse the truth, the poore woman fell on her knees and demaunded pardon and grace, con<g ref="char:EOLhyphen"/>fessing that shee had swallowed such a pill which shee emptied after a purge, and two letters found in it, one in Spanish from the baron of <hi>Lede</hi> Vice Governour of <hi>Ma<g ref="char:EOLhyphen"/>striecht</hi> to <hi>La Mottery,</hi> that was in the Marquesse Campe desiring releefe, with promise to holde out; the o<g ref="char:EOLhyphen"/>ther from the Magistrate to the same <hi>La Mottery,</hi> pro<g ref="char:EOLhyphen"/>testing that if they were not releeued within 3. dayes they would and must yeeld to the enemy, such was the condition of the Towne that they did not agree, some de<g ref="char:EOLhyphen"/>siring to treat, others to hold out, some labouring more for there honour, others for theyr profit.</p>
+            <p>The 15. of August, came <hi>Kutingen</hi> Ambassadour of the Archbishop of <hi>Cullen</hi> to the States and his Excellency, but was so coldly entertained and so sleightly welcommed, that he could presently guesse the nature of his dispatch
+<pb n="19" facs="tcp:177442:11"/>would he a good checke, as he got at the last; for his Ma<g ref="char:EOLhyphen"/>sters trechery who was the cheefe cause of <hi>Pappenheyms</hi> comming hither, though indeed he did vs not the least hurt or hindrance, yet not for want of good will. The e<g ref="char:EOLhyphen"/>nimies made shew that day to assault vs in our workes o<g ref="char:EOLhyphen"/>uer the water, but it was nothing but a brauado.</p>
+            <p>The 16. was a quiet day, but that Count <hi>Henry van Nassaw</hi> his Steward was shot in the approaches, whose name was Master <hi>Esinga,</hi> a Gentleman of quality.</p>
+            <p>The 17. of August, was the bloodiest day we had all this siege, for we had worke ynough on both sides; They in the Towne sallyed forth vpon vs in the morning and comming vnawarres behinde our Sentinell, fell into our first <hi>Corps de Garde</hi> afore they were discoucred, and throwing aboue 20. hand Granadoes amongst our men, that lay here and there secattered, put them into such a confusion, that they quitted that worke and retired to the 2. <hi>Corps de Garde</hi> but were driuen from thence and out of the 3. likewise, theyr we lost many men afore our troopes could come in some order, by the meanes of Captaine <hi>Cromwell</hi> who gathered as many men as he could to hinder the enimies proceedings, being assisted by that Noble Lord <hi>Crauen</hi> who came thither vpon this first alarum to present his service, as he was honorably im<g ref="char:EOLhyphen"/>ployed in commanding the Pikes; so that the Enemy see<g ref="char:EOLhyphen"/>ing our men ready to come vpon them fell back by little and litle, till at last they werebeaten out of all our workes againe with losse and shame. We lost many Officers, a<g ref="char:EOLhyphen"/>mongst them Serieant Maior <hi>Williamson</hi> of Col. <hi>Morgans</hi> regiment, and Captaine <hi>Martin</hi> a Scottish Lieutenant, <hi>Moncrist</hi> and others that dyed afterwards, but the grea<g ref="char:EOLhyphen"/>test losse was in that thrice Noble and Valiant Earle of <hi>Oxford</hi> who came vpon the first Alarum, notwithstan<g ref="char:EOLhyphen"/>ding his indisposition into the aproches to doe seruice to the Common wealth, and as he was going to charge the Enemy with his troupes, was most vnfortunately shot in his head and fell downe starke dead without speaking a<g ref="char:EOLhyphen"/>ny
+<pb n="20" facs="tcp:177442:12"/>word to the great greife of the whole Army. The first Earle of <hi>England</hi> that euer was shot in approaches as some obserue. But as the Enimies were beaten out of the workes which they had gotten, so we had another re<g ref="char:EOLhyphen"/>venge vpon our Enimies in the afternoone to keepe them off from our workes that they should not enter them, on the other side of the water: for <hi>Pappenheym</hi> sending some of his Horse to draw out our Horses to a skirmish, and by that to draw them into an Ambuscado which he had laid in a little Wood with 5. or 600. Musketiers, neare which some of our Musketiers that were sent out by Count <hi>Me<g ref="char:EOLhyphen"/>rats</hi> to charge the Horses, not suffering our horses to goe forth for feare of an Ambuscado; whereupon his Mus<g ref="char:EOLhyphen"/>kettiers issuing out of theyr Bushes charged our men, and caused them to retire which they did in good order be<g ref="char:EOLhyphen"/>ing lesse in number, and the <hi>Pappenheyms</hi> pursuing ea<g ref="char:EOLhyphen"/>gerly after our men, came into a ditch that had beene made long agoe by our Horsmen to keepe in theyr Hor<g ref="char:EOLhyphen"/>ses, and thinking they were in our entrenchments, sent for speedy releefe to <hi>Papenheym</hi> with aduise, that they had gotten into our workes, which they found a little way off, more important and of greater difficulty to force then they imagined, and therefore began to retyre, but the poore Footmen being kept and forced to goe on by their owne Horsemen which came behind them with their swords to beate them forward, they saw no other reme<g ref="char:EOLhyphen"/>dy but to runne headlong against our walles and there to dye before their enemies, rather than to bee stayne by their owne horses. For it happened, that wee being pro<g ref="char:EOLhyphen"/>uided for them, gaue them such a welcome with our Ca<g ref="char:EOLhyphen"/>nons being placed on both sides and charged with Mus<g ref="char:EOLhyphen"/>ket bullets besides our Muskettiers from the walles, that they were slayne like silly sheepe and fell in abundance, till our men being weary of killing fell out vpon them and tooke the rest Prisoners. It is credibly reported, that that they lost at the least 1000. men, carrying away sixty Wagons full of dead bodies, and leauing behind
+<pb n="21" facs="tcp:177442:12"/>them theyr storme-ladders, munition, Armes and other Instruments. There was a bill or a list brought to the Court of slayne: Foure Colonels, 7. Captaines, the Ge<g ref="char:EOLhyphen"/>nerall of the Artillery, and 1500. men hurt and killed, a<g ref="char:EOLhyphen"/>mongst them <hi>Papenheym</hi> himselfe wounded a little in his side, how certaine it is I know not, sure it is that they carried away 60. Wagons full of slayne and hurt, and left behinde them aboue 2. or 300. in the fields stripped, which our souldiers buried the day after. Thus was <hi>Papenheym</hi> forced to confesse, that our workes were not to be forced for all his braueries, to send vs backe againe with a staffe in the hand, yet was hee so much more to be comended then the <hi>Spaniards</hi> for his courage, that he durst attempt that when our workes were finished, which the <hi>Spaniards</hi> durst not doe with a stronger Army afore our workes were brought to perfection.</p>
+            <p>The 18. arriued at <hi>Noufit,</hi> a Conuoy of 50. Chariots with Powder from <hi>Roremond,</hi> being accompanied but by three Companies of horse, notwithstanding the enemies Armies on both sides which came very seasonably, by rea<g ref="char:EOLhyphen"/>son of our Mynes which wee were about to make, and re<g ref="char:EOLhyphen"/>quired a good deale of powder.</p>
+            <p>The 19. wrought our workemen in the Myne so fast, that they got vnder the wall in hope to spring it within few dayes as it was done.</p>
+            <p>The 20. were the two dead bodyes of Colonell <hi>Har<g ref="char:EOLhyphen"/>wood,</hi> and Count of <hi>Hanaw,</hi> carried out of the Leaguer in two Wagons, their Companies marching afore them be<g ref="char:EOLhyphen"/>fore our entrenchments, from whence they were brought to the Enemies leaguer and by the Marquesse Trumpet conducted to <hi>Mazeyk,</hi> and so by water into <hi>Holland.</hi> That day was the Eeue of our Ioy and Victory, but a sad and heauie one, for our Mine which was appointed to be sprung about 5. a clocke, could not be ready till towards 9. a clocke which caused a great confusion and trouble. To speake larger of it, wee had made a deckt Gallery vn<g ref="char:EOLhyphen"/>der the ground towards the wall, and as our Ingenier
+<pb n="22" facs="tcp:177442:13"/>thought to be farre enough, hee began his Mine making three seuerall Chambers, and putting some 18. tonnes of Powder in them; but they in the Towne by theyr Coun<g ref="char:EOLhyphen"/>termines found out our myne and began to take it in 9. tonnes of Powder, which our Ingenier perceiuing haste<g ref="char:EOLhyphen"/>ned the other chambers, one of them taking fire about 9. of the clocke in the darkest night, wee had in a short time made an indifferent breach in the wall, but not so great as we had desired. Whereupon the Companies were com<g ref="char:EOLhyphen"/>manded and some others voluntarily to fall on, but found the ditch very steepe and deepe, that the most part of the Soldiers and Officers were forced to sit downe vpon the ground and so to slide downe in the ditch vpon their bree<g ref="char:EOLhyphen"/>ches, which being done, they found the other side of the ditch very high and steepe againe to ascend, the breach being aboue in the stone wall, so that with much adoe they did climbe vp to the breach; in the meane while they in the Towne knowing the place of the myne re<g ref="char:EOLhyphen"/>sorted all thither, Souldiers, Burgers, and Clergy-men, and threw abundance of hand Granadoes and pitched <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opes and the like stuffe downe in the Ditch, and shot so fiercely with Canons and Muskets vpon our poore men, that they were forced to retyre with some losse, Lieute<g ref="char:EOLhyphen"/>nant <hi>Hollis</hi> who commaunded the assault was shot in his thigh, and many Officers and Gentlemen killed and hurt. His Excellency was then in the approaches and could not sufficiently commend the courage and resolution of our <hi>English,</hi> that went on like as to a Feast with a great noise and acclamation.</p>
+            <p>The insuccessiblenesse of the breach and the darknesse of the night, was the cause that the Towne was not for<g ref="char:EOLhyphen"/>ced, which in the day time would easier hane beene per<g ref="char:EOLhyphen"/>formed: And the Towne brought into that same estate in which they were fome 53. yeares agoe, when the Duke of <hi>Parma</hi> tooke it by an assault, and killed Men, Women and Children, and pillaged the whole Towne; For our Souldiers longed already for the faire Buffe coats,
+<pb n="23" facs="tcp:177442:13"/>and Goldsmithes shops, which are renowned in this Towne to make good booty, but the Lord had otherwise disposed to spare so much innocent blood that would haue bin spilt in the sacking of so mighty a Towne. They within the Towne had made within the walls seuerall Trauerses, and cut off the wall, and planted Ordnance heere and there, that if we had gotten into the Towne we had found yet great resistance, howsoeuer this bold at<g ref="char:EOLhyphen"/>tempt of our <hi>English</hi> did so terrifie both Clergie and Bur<g ref="char:EOLhyphen"/>gers, that the next day being the 21. of August about 8. a clocke, they began to consult in the towne, whether they should stay for the second myne in the <hi>French</hi> approches, which was to be ready within 2. dayes or come to a parly, considering that the longer they deferred the treaty, the worse Conditions should they obtayne from his Excel<g ref="char:EOLhyphen"/>lency; Therefore Saturday the 21. of August, betimes a Clergy-man without warrant began to tole the great Bell which was not wont to be tolled but in great extre<g ref="char:EOLhyphen"/>mitieand danger, with an intent to assemble the people, which strucke such a terrour in the Commons thinking there had beene another myne sprung, that they came to<g ref="char:EOLhyphen"/>gether desiring to parley, and the Magistrates and Clergy being as forwards as some of the Burgers, they forced the Gouernour to come to a Treaty how loath and vnwilling soeuer hee was, representing vnto him the great danger they were in, if the towne should be forced, the litle hope they had of reliefe, the great honour hee had gotten alrea<g ref="char:EOLhyphen"/>dy in giuing an assault. And thus, till at last mingling threatnings with intreaties, they moued the Gouernour to put out the white Flag and to desire a parley, which was granted by his Excellency. And the Serjeant Maior Generall going into the Towne, there came some Cap<g ref="char:EOLhyphen"/>taines and Magistrates vp to his Excellency and treated that whole day, til the next day after they agreed, on both sides vpon such Conditions as you may finde in the prin<g ref="char:EOLhyphen"/>ted Articles, and the Conditions on the behalfe of the Garrison, were fulfilled the day after being Munday the
+<pb n="24" facs="tcp:177442:14"/>23. day of August, where about Two of the clocke in the afternoone, they marched out with flying Colours, full Armour, lighted matches, in number about 1300. strong sound men, besides those that were vpon Wagons with the bagage, and such as were hurt, they had but 2. Com<g ref="char:EOLhyphen"/>panies of Horses very weake, and tooke with them sixe Pieces of Canon. That day marched into the Towne his Excellencies Guard, and the Colonels Companies, which were releeued by others some dayes after, till a certaine Garrison should be established.</p>
+            <p>Thus was that strong (and in the eyes of the world) impregnable City of <hi>Maestricht</hi> and <hi>Wyck</hi> taken in by his Excellency, by the Lords especiall grace and blessing, the difficulty of which Siege, was not so much in regard of the strong Fortification, as for the scituation of it be<g ref="char:EOLhyphen"/>ing so farre from <hi>Holland,</hi> in the middest of the enemies Countrey, the King of <hi>Spaines</hi> darling Towne which hee would not loose for any thing. Many things were very memorable in this Siege, of which, 4. I cannot chuse but relate.</p>
+            <p n="1">1 That the things which is brought to hee very hin<g ref="char:EOLhyphen"/>dersome and troublesome to vs, with a meanes of furthe<g ref="char:EOLhyphen"/>ring vs and doing vs good. 1. The weather. 2. The E<g ref="char:EOLhyphen"/>nemies, for it is generally knowne, how wet and moyst a Summer we had this yeare, full of Raines, tempests, stormes, hales, and inundations, which should haue see<g ref="char:EOLhyphen"/>med to hinder vs exceedingly. There is none of the eldest men in our Army that had remembered such a feason, so that some times we could not see the Sunne shine in ma<g ref="char:EOLhyphen"/>ny dayes, and were forced on the very Midsummer day to sit neare the fire to warme vs, as likewise often in the Dog dayes. But the same God who ruleth seasons and wea<g ref="char:EOLhyphen"/>ther, and manifested his goodnesse towards vs by that dry Summer, before the <hi>Bush</hi> when wee had need of it, in re<g ref="char:EOLhyphen"/>gard of the moystnesse of that Marish ground about that City. He granted vnto vs a wet Summer in regard of the contrary disposition of this ground about <hi>Maestricht,</hi>
+               <pb n="25" facs="tcp:177442:14"/>being hard stony and a very firme Clay ground, so that if the Lord had not continually softened the earth by abun<g ref="char:EOLhyphen"/>dance of rayne, it had bin impossible for our workmen to worke at all, or at least so currantly in the approaches and trenches; so that though it was very tedious to those that had the Guard in the approaches to stand in the durt o<g ref="char:EOLhyphen"/>uer the shooes, yet in regard of the publike good it was very profitable to haue rayne and wet weather; besides, the same rayne and abnndance of wet weather did serue vs likewise, in regard of the Riuer of <hi>Mase</hi> which was alwayes ouerflowne: for that our Army and (the Marquis could not passe ouer with his Army, or at least with his Horse to assault vs on the other side) where wee were weaker at the beginning; for you must know, that first of all, we entrenched our selues on this side of the Riuer where <hi>Maestricht</hi> lyeth, because the reliefe for the towne should come out of <hi>Braband,</hi> so that wee had need to be sure on our backe for our Enemy, which was done with<g ref="char:EOLhyphen"/>in a short time, and after that wee did goe to worke on the other side in Graue-<hi>Morrit,</hi> Quarter to entrench that likewise. And our enimies comming before our trenches on this side, when they were almost ready, seeing the diffi<g ref="char:EOLhyphen"/>culty to force vs, labored by all meanes to get ouer the ri<g ref="char:EOLhyphen"/>uer to bring some releife in the Towne through Graue <hi>Morrits</hi> Quarter which was not fortified; But the Lord who alwayes fought for vs and made all his Creatures to serue vs, kept the Riuer of <hi>Mase</hi> in an extraordinary height and the streame in such a manner of violence, that wheras heretofore it was the whole Summer quayable &amp; easy to passe on Horse-back, this yeare it was a hard mat<g ref="char:EOLhyphen"/>ter to crosse it with a Boate, so that our enimy was disap<g ref="char:EOLhyphen"/>pointed in his dissignes. But marke the vnspeakable wis<g ref="char:EOLhyphen"/>dome and providence of our God, no sooner were wee come with our approaches almost to the end, and our workes round about the leaguer finished and <hi>Pappenheym</hi> with his Army almost arriued on the other side out of <hi>Germany,</hi> but faire weather commeth on, and the ground
+<pb n="26" facs="tcp:177442:15"/>growne hard agayne and difficult for <hi>Pappenheym</hi> to worke in his batteries and entrenchments. Then the Riuer grew lesse and lesse and <hi>Pappenheym</hi> ioyned with the Marqueffe by a Bridge which hitherto we had hin<g ref="char:EOLhyphen"/>dred him to doe a long. Wee stood in need of it and did not care, for hauing made an end of our workes. And as the weather, so our enimies themselues haue fought for vs and done as it were a good turne, to deferre to as<g ref="char:EOLhyphen"/>sault vs till our workes were ended, and to lye hereabout as without attempting any thing against some of our Townes in the vnited Provinces, for if the Marquesse had fallen on at his first comming, when he was strong in men and had aboundance of ordnance with him, theyr had beene a possibility to doe vs some hurt and to bring vs to some inconueniency, if not to relieue the Towne, our workes being yet vnperfect, but by putting it off from one day to another, wee made our selues so fast, that afterwards if hee had any mind to assault vs it had beene vnprofitable, nay preiudiciall to his whole Army, or if hee had gone into <hi>Holland,</hi> or <hi>Frizeland,</hi> and taken the course which Graue <hi>Henry vanden Bergh</hi> tooke in the Siege of the <hi>Bush,</hi> to spoyle our Country within, and feare vs, hee might haue done vs great harme, if not taken fome towne or forced vs to deuide our Army; but the Lord hath so blinded theyr eyes and benummed theyr wise Councell, that they would rather sit downe neare vs, dye for hun<g ref="char:EOLhyphen"/>ger, and loose a great sort of men that runne ouer to vs e<g ref="char:EOLhyphen"/>uery day, to bee as it were eye-witnesses of our good suc<g ref="char:EOLhyphen"/>cesse and victories, then by any honourable attempt annoy vs or profit themselues. It is the Lords worke, and it is maruailous in our eyes.</p>
+            <p n="2">2 It is likewise worthy to be obserued how the Lord did blesse so bold an enterprize with a successefull Issue, notwithstanding so many lets &amp; hindrances. It is to won<g ref="char:EOLhyphen"/>der at, and a strange thing to those that know this Coun<g ref="char:EOLhyphen"/>try, that the States should send theyr Army vnder the cōmand of his Excellence in so farre and remote a Coun<g ref="char:EOLhyphen"/>try
+<pb n="27" facs="tcp:177442:15"/>from theyr owne territories, to besiedge so great, po<g ref="char:EOLhyphen"/>pulous, strong, and well furnished a Town, being scituated in the midst of the enimies Country, the Magazin of whole <hi>Brabam,</hi> the ordinary Rendeuous of the Kings Ar<g ref="char:EOLhyphen"/>mies, full of deuout Clergy, faithfull subiects to the King, valliant souldiers, hauing aboundance of all necessaries without any want whatsoeuer, &amp; good resolution, to hold out, and greater hope to be certainly releeued by an Army that came a farre way, without any baggage or sufficient prouision, hauing left the most part of the Canons, Mu<g ref="char:EOLhyphen"/>nitions, Prouisions, Tents, Clothes, Linnen, on shipboard at <hi>Nymmegen,</hi> without any possibility to come to them, as indeed even the best of vs had want of such necessaries to the very end of the siege. 3. Hauing no hope to get any prouision out of <hi>Brabant,</hi> and relying onely and mainely vpon a people neutrall. 4. Besieging that vast Towne but on one side from his Excellencies owne quarter, by 2. aproches of the <hi>English</hi> and the <hi>French</hi> where the enimie might bend his might and strength to hinder and oppose vs, and notwithstanding all oppositions goe through with it, continue the seidge so long time 10. weekes and two dayes, and at last take it by Composition. 5. In the sight and presence of two powerfull strong Armies of the ene<g ref="char:EOLhyphen"/>mies, lying both within a Canon shot from our leaguer, whose onely desire was to keepe that darling City. It is the Lord who girded our loynes with strength, with him hath our Army leaped ouer the wall, he hath fought our battels for vs, blessed be his holy name.</p>
+            <p n="3">3 It is remarkable that this whole seidge, notwith<g ref="char:EOLhyphen"/>standing that vnseasonable weather and many necessities, and wants of diuers things, our Army hath not beere af<g ref="char:EOLhyphen"/>flicted with any sicknesses or diseases, which othe wise accompanie such exploits. The Lord repairing and men<g ref="char:EOLhyphen"/>ding as it were the vnseasonablenesse of the weather with a wholesome piercing and delightsome aire, which kept our bodies in good temper, and good constitution; so that I heare scarce of any of our soldiers that was sicke of
+<pb n="28" facs="tcp:177442:16"/>any disease in all this siege, blessed bee the LORD of Hosts. For all these Considerations and many o<g ref="char:EOLhyphen"/>ther manifestations of the Lords prouidence and good<g ref="char:EOLhyphen"/>nesse towards our Army, wee may confesse, that it was not the strength of our Army or the Arme of flesh by which wee haue gotten so glorious a victory; but <hi>Digi<g ref="char:EOLhyphen"/>tus Dei,</hi> the power and Arme of Almighty God who hath the hearts of men in his hand, inclining them whether he will, that it is he alone who hath crowned this enterprize with glory and victory. To that God, who alone doeth wonderfull things, be Honour, Glory, Thankesgiuing and Prayse for euermore, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="casualty_lists">
+            <div type="list">
+               <head>A List of all the Officers of <hi>English, Scots, French, Wallownes,</hi> and <hi>Dutch,</hi> which were Slaine and hurt, during the Siege of <hi>Maestricht,</hi> the yeare, <hi>M.DC.XXXII.</hi>
+               </head>
+               <list>
+                  <head>Generall <hi>Veeres</hi> Regiment.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>EArle of <hi>Oxford.</hi>
+                        </item>
+                        <item>Captaine <hi>Manly.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Veer.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Lieutenant Colonell <hi>Hollis.</hi>
+                        </item>
+                        <item>Serjeant Maior <hi>Harcourt.</hi>
+                        </item>
+                        <item>Captaine <hi>Rookewood.</hi>
+                        </item>
+                        <item>Captaine <hi>Trevory.</hi>
+                        </item>
+                        <item>Captaine <hi>Veer.</hi>
+                        </item>
+                        <item>Captaine <hi>Dudly.</hi>
+                        </item>
+                        <item>Capt. Lieutenant <hi>Cave.</hi>
+                        </item>
+                        <item>Capt. Lieut. <hi>Payton.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Duncombe.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Temple.</hi>
+                        </item>
+                        <item>Lieut. <hi>Peter.</hi>
+                        </item>
+                        <item>Lieut. <hi>Raynham.</hi>
+                        </item>
+                        <item>Ensigne <hi>Gerrad.</hi>
+                        </item>
+                        <item>Ensigne <hi>Sidnam.</hi>
+                        </item>
+                        <item>Ensigne <hi>Read.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Gen. <hi>Morgans</hi> Regiment.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Serjeant Maior <hi>Williamson.</hi>
+                        </item>
+                        <item>Capt. Lieutenant <hi>Martin.</hi>
+                        </item>
+                        <item>Captaine <hi>Wentworth.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Awdrey.</hi>
+                        </item>
+                        <item>Ensigne <hi>Forthsinge.</hi>
+                        </item>
+                        <item>Quartermaster <hi>Waymer.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Generall <hi>Morgan.</hi>
+                        </item>
+                        <item>Captaine <hi>Griffin.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Whaly.</hi>
+                        </item>
+                        <item>Ensigne <hi>Stevens.</hi>
+                        </item>
+                        <item>Ensigne <hi>Cleve.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <pb n="29" facs="tcp:177442:16"/>
+                  <head>Colonel <hi>Pagenhams</hi> Regim.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Lieutenant Colonell <hi>Proud.</hi>
+                        </item>
+                        <item>Captaine <hi>Gawdy.</hi>
+                        </item>
+                        <item>Capt. Lieutenant <hi>Courtniy.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Lewis.</hi>
+                        </item>
+                        <item>Ensigne <hi>Mannings.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Colonell <hi>Pagenham.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Bradley.</hi>
+                        </item>
+                        <item>Ensigne <hi>Dansey.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Colonell <hi>Herberts</hi> Regim.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Colonell <hi>Harwood.</hi>
+                        </item>
+                        <item>Captaine <hi>Morton.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Garth.</hi>
+                        </item>
+                        <item>Ensigne <hi>Johnson.</hi>
+                        </item>
+                        <item>Ensigne <hi>Flyet wood.</hi>
+                        </item>
+                        <item>Ensigne <hi>Browne.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Captaine <hi>Dorrell.</hi>
+                        </item>
+                        <item>Capt. Lieutenant <hi>Sundall.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Duncombe.</hi>
+                        </item>
+                        <item>Ensigne <hi>Dolman.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>
+                  <hi>English</hi> Officers slaine, 20</p>
+               <p>Hurt. — — 27</p>
+            </div>
+            <div type="list">
+               <head>Officers of the <hi>Scots,</hi> slaine and hunt.</head>
+               <list>
+                  <head>Colonel <hi>Brogues</hi> Regiment.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Captaine <hi>Ogleby.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Bruce.</hi>
+                        </item>
+                        <item>Ensigne <hi>Riddel.</hi>
+                        </item>
+                        <item>Ensigne <hi>Coates.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Captaine <hi>William Murray.</hi>
+                        </item>
+                        <item>Ensigne <hi>Johnson.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Colonel <hi>Bucklinghs</hi> Regim.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Captaine <hi>Murray.</hi>
+                        </item>
+                        <item>Ensigne <hi>Granne.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Mackrith.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Captaine <hi>Levistone.</hi>
+                        </item>
+                        <item>Ensigne <hi>Kerne-Croft.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="list">
+               <head>Colonell <hi>Balfoures</hi> Regim.</head>
+               <list>
+                  <item>Slaine none.</item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Lieut. Colonell <hi>Leviston.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Dowglasse.</hi>
+                        </item>
+                        <item>Ensigne <hi>Scot.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>Officers of the <hi>Scots,</hi>
+               </p>
+               <p>Slaine, — 6</p>
+               <p>Hurt, — 8</p>
+            </div>
+            <div type="list">
+               <head>Officers of the <hi>French,</hi> slaine and hurt.</head>
+               <list>
+                  <head>Coll. <hi>Shattilloones</hi> Regim.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Ensigne <hi>De Faij.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Lieutenant <hi>De Montagurt.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Coll. <hi>Hawtreves</hi> Regiment.</head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Captaine <hi>Bezin.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Jsabella.</hi>
+                        </item>
+                        <item>Ensigne <hi>De Bresinella.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="28" facs="tcp:177442:17"/>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Captaine <hi>Berringham.</hi>
+                        </item>
+                        <item>Lieutenant <hi>De Ville.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Colonel <hi>Candale</hi> Regiment.</head>
+                  <item ana="#role_label">Slaine
+<list>
+                        <item>Lieut. Colonell <hi>De Teaux.</hi>
+                        </item>
+                        <item>Captaine <hi>Fovillous.</hi>
+                        </item>
+                        <item>Captaine <hi>De Fresue.</hi>
+                        </item>
+                        <item>Lieutenant <hi>De Boys.</hi>
+                        </item>
+                        <item>Lieut. <hi>De Faij.</hi>
+                        </item>
+                        <item>Lieut. <hi>De Grages.</hi>
+                        </item>
+                        <item>Lieut. <hi>De Paielle.</hi>
+                        </item>
+                        <item>Lieut. <hi>La Ruelle.</hi>
+                        </item>
+                        <item>Lieut. <hi>Payner.</hi>
+                        </item>
+                        <item>Ensigne <hi>De Saresener.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Captaine <hi>Croyer.</hi>
+                        </item>
+                        <item>Serieant Maior <hi>Vernennille.</hi>
+                        </item>
+                        <item>Lieutenant <hi>De Forgies.</hi>
+                        </item>
+                        <item>Capt. <hi>Mannus</hi> his Ensigne.</item>
+                        <item>Ensigne <hi>De Preane.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Col. <hi>Maysomtres</hi> Regiment</head>
+                  <item ana="#role_label">Slayne.
+<list>
+                        <item>Captaine <hi>Veleter.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Charlet.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Lieutenant <hi>Croyer.</hi>
+                        </item>
+                        <item>Lieut. <hi>Brovillard.</hi>
+                        </item>
+                        <item>Lieut. <hi>Varde.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>Officers of the <hi>French,</hi>
+               </p>
+               <p>Slaine, — 16</p>
+               <p>Hurt, — 11</p>
+            </div>
+            <div type="list">
+               <list>
+                  <head>Walloons <hi>Regiment.</hi>
+                  </head>
+                  <item ana="#role_label">Slaine.
+<list>
+                        <item>Captaine <hi>Margure.</hi>
+                        </item>
+                        <item>Lieutenant <hi>Boune.</hi>
+                        </item>
+                        <item>Ensigne <hi>Calvert.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item ana="#role_label">Hurt.
+<list>
+                        <item>Lieutenant <hi>Tistinck.</hi>
+                        </item>
+                        <item>Ensigne <hi>Fovillous.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>
+                  <hi>Walloons,</hi> slaine and hurt, 5</p>
+            </div>
+            <div type="list">
+               <list>
+                  <head>Count <hi>Solmes</hi> Regiment. Slaine.</head>
+                  <item ana="#role_label">Slaine.</item>
+                  <item>Ensigne <hi>Newlanit.</hi>
+                  </item>
+                  <item ana="#role_label">Count <hi>Hannohs</hi> Regiment. Slaine.</item>
+                  <item>Count <hi>Hannoh.</hi>
+                  </item>
+               </list>
+               <p>Officers of the <hi>Dutch,</hi>
+               </p>
+               <p>Slaine, — 2</p>
+            </div>
+            <div type="summary">
+               <p>
+                  <hi>Officers slaine,</hi> — 48. <hi>Hurt,</hi> — 52. <hi>Jn all, slaine and hurt,</hi> — 100.</p>
+               <pb facs="tcp:177442:17"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
